@@ -1,1 +1,1 @@
-# flutter-whatsapp-clone
+WhatsApp Clone (UI). A WhatsApp-style template featuring the face icons and other icons found in WhatsApp. The App does not include messaging functionality. It is just a WhatsApp User Interface. See on: https://antonkuznecov0911-ui.github.io/flutter-whatsapp-clone
